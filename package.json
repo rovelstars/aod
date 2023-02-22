@@ -1,0 +1,23 @@
+{
+  "name": "aod",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.6",
+    "@twind/core": "^1.1.3",
+    "@twind/preset-autoprefix": "^1.0.7",
+    "@twind/preset-tailwind": "^1.1.4",
+    "jsmediatags": "^3.9.7",
+    "next": "13.1.6",
+    "next-pwa": "^5.6.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}

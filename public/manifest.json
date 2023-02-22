@@ -1,0 +1,14 @@
+{
+	"name": "AOD - Always On Display",
+	"version": "1.0.0",
+	"author": "RovelStars",
+	"display": "standalone",
+	"description": "Always On Display",
+	"icons": [
+		"48": "/next.svg",
+		"128": "/next.svg",
+		"512": "/next.svg"
+	],
+	"theme_color": "#000000",
+	"background_color": "#000000"
+}
